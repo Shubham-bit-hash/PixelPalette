@@ -24,7 +24,7 @@ PixelPalette is a virtual color whiteboard that allows you to draw and paint dyn
 ## Usage  
 1. **Run the program**:  
    ```bash
-   python pixel_palette.py
+   python main.py
    ```  
 2. **Control Panel**:  
    - Use the **Color detectors** window to adjust HSV values for precise color detection.  
@@ -46,7 +46,7 @@ PixelPalette is a virtual color whiteboard that allows you to draw and paint dyn
 ---
 
 ## File Structure  
-- `pixel_palette.py`: Main script containing the application logic.  
+- `main.py`: Main script containing the application logic.  
 
 ---
 
